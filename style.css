@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(209, 231, 12);
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    color: rgb(61, 180, 176);
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+
+    line-height: 30px ;
+}
+section {
+    width= "800" 
+}
+b {
+    color: red;
+}
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
